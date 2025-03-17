@@ -20,12 +20,24 @@ The **React Weather App** is a simple yet interactive weather application that a
 This app uses the **OpenWeatherMap API** to fetch weather data.  
 https://api.openweathermap.org/data/2.5/weather?q={city}&units=metric&appid={API_KEY}
 
+---
+
 ## Installation & Usage  
-**1 Navigate to the project folder**
-cd react-weather-app
-**2 Install dependencies:**
-npm install
-**Create a .env file in the root directory and add your OpenWeatherMap API Key:**
-VITE_APP_ID="a3abf2a8f6cf45a5d8c1d3225b533cd5"
-**Start the development server:**
-npm run dev
+
+**1 Navigate to the project folder** - cd react-weather-app
+**2 Install dependencies:** - npm install
+**3Create a .env file in the root directory and add your OpenWeatherMap API Key:** - VITE_APP_ID="a3abf2a8f6cf45a5d8c1d3225b533cd5"
+**4Start the development server:** - npm run dev
+**Start the development server:** - npm run dev
+**Now, open your browser and visit http://localhost:5173/**
+
+---
+
+##useState
+**Manages weather data, storing values such as temperature, wind speed, and humidity.
+Example:**
+'''js
+const [weatherData, setWeatherData] = useState(false);
+
+##useEffect
+
