@@ -1,5 +1,6 @@
 
-![Uploading index.html - WEATHER-APP - Visual Studio Code 17_03_2025 4_53_13 pm.png…]()
+![index html - WEATHER-APP - Visual Studio Code 17_03_2025 4_53_13 pm](https://github.com/user-attachments/assets/90a07f9a-7518-4737-97e2-a33fb433fdb3)
+
 
 # React Weather App  
 
