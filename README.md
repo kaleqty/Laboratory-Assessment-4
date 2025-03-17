@@ -21,4 +21,11 @@ This app uses the **OpenWeatherMap API** to fetch weather data.
 https://api.openweathermap.org/data/2.5/weather?q={city}&units=metric&appid={API_KEY}
 
 ## Installation & Usage  
-#1 Navigate to the project folder
+**1 Navigate to the project folder**
+cd react-weather-app
+**2 Install dependencies:**
+npm install
+**Create a .env file in the root directory and add your OpenWeatherMap API Key:**
+VITE_APP_ID="a3abf2a8f6cf45a5d8c1d3225b533cd5"
+**Start the development server:**
+npm run dev
