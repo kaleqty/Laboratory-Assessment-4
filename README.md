@@ -1,3 +1,6 @@
+
+![Uploading index.html - WEATHER-APP - Visual Studio Code 17_03_2025 4_53_13 pm.png…]()
+
 # React Weather App  
 
 The **React Weather App** is a simple yet interactive weather application that allows users to check the current weather conditions for any city worldwide. It fetches real-time weather data from the **OpenWeatherMap API** and displays details like temperature, humidity, wind speed, and weather icons dynamically.
